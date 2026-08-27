@@ -5,8 +5,8 @@ uri: "https://www.cm-barrancos.pt"   # Entre as aspas escreve o domínio do webs
 a11y_statement: "https://www.cm-barrancos.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "CM de Barrancos"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+validity: "27/08/2026 a 27/08/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # Munícipio de Barrancos
@@ -15,6 +15,8 @@ status: "A aguardar correções da entidade" # Entre as aspas escreve uma das se
 - URL: https://www.cm-barrancos.pt
 - Propriedade: CM de Barrancos
 - Candidatura: Prata
+- Validade do selo: 27/08/2026 a 27/08/2027
+- Estado: Concluído
 
 ## Relatório de auditoria
 
@@ -25,7 +27,7 @@ Consulte aqui a última atualização: [Relatório Munícipio de Barrancos](repo
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="24072026_report.html">(24/07/2026). Relatório Munícipio de Barrancos</a></li>
+    <li><a href="27082026_report.html">(27/08/2026). Relatório Munícipio de Barrancos</a></li>
   </ul>
 </details>
 
